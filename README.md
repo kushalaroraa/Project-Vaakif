@@ -1,16 +1,79 @@
-# React + Vite
+# 🌱 VAAKIF — Volunteer–NGO Connection Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+VAAKIF is a web platform designed to connect volunteers with verified NGOs for **offline volunteering opportunities**.  
+The project focuses on building a modern, Gen-Z friendly user experience with clean design, smooth animations, and intuitive discovery of opportunities.
 
-Currently, two official plugins are available:
+This repository currently contains the **frontend implementation**, with backend and AI features planned as part of the full-stack roadmap.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features (Frontend Implemented)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🔍 Discover volunteering opportunities by category, location, schedule, and duration  
+- 🎨 Modern, responsive UI built for Gen-Z users  
+- ✨ Smooth scroll-based animations and micro-interactions  
+- 📊 Animated impact counters (e.g., volunteers onboarded, NGOs registered)  
+- 🧭 “How It Works” section for volunteers and NGOs  
+- 💬 Horizontally scrollable testimonials section  
+- 📱 Mobile-first and accessible design  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+**Frontend**
+- React.js  
+- JavaScript (ES6+)  
+- Tailwind CSS  
+- Framer Motion  
+- React Router  
+
+**Tools**
+- Git & GitHub  
+- Figma  
+- Canva  
+
+---
+
+## 🧠 Planned Features (Backend & AI – In Progress)
+
+- NGO registration and document verification workflow  
+- Volunteer and NGO dashboards  
+- Event creation and RSVP management  
+- Role-based authentication  
+- AI-based volunteer–NGO matching  
+- Chatbot assistant for onboarding and discovery  
+
+---
+
+## 📂 Project Structure
+
+vaakif/
+│
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── layouts/
+│ ├── hooks/
+│ └── assets/
+│
+├── README.md
+└── package.json
+
+---
+
+
+---
+
+## 🌐 Screenshots
+
+### Hero Section
+![Landing Page Hero](screenshots/landing-hero.png)
+
+---
+
+## 📌 Project Status
+
+- ✅ Frontend UI and interactions completed  
+- 🚧 Backend and AI features under development  
+
