@@ -68,7 +68,7 @@ vaakif/
 ## 🌐 Screenshots
 
 ### Hero Section
-![Landing Page Hero](screenshots/landing-hero.png)
+![Landing Page Hero](DemoVaakif.png)
 
 ---
 
